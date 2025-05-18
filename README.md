@@ -34,11 +34,14 @@ To run the project locally:
 Clone the repository:
 
 bash
+
 git clone https://github.com/aniket0102/Weather-App-.git
 Navigate to the project directory:
 
 bash
+
 cd Weather-App-
+
 Open index.html in your preferred web browser.
 
 
