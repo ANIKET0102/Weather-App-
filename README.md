@@ -5,7 +5,7 @@
 A simple and responsive web application that provides real-time weather information for any city worldwide. Built using HTML, CSS, and JavaScript, it fetches data from the WeatherAPI to display current temperature and weather conditions.
 
 🚀 Live Demo
-Check out the live application here: Weather App
+Check out the live application here: [Weather App](https://aniket0102.github.io/Weather-App-/)
 
 🧰 Features
 🌍 City Search: Enter any city name to retrieve its current weather data.
@@ -34,14 +34,10 @@ To run the project locally:
 Clone the repository:
 
 bash
-Copy
-Edit
 git clone https://github.com/aniket0102/Weather-App-.git
 Navigate to the project directory:
 
 bash
-Copy
-Edit
 cd Weather-App-
 Open index.html in your preferred web browser.
 
